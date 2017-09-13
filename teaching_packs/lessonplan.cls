@@ -195,3 +195,5 @@
     \switchcolumn
 
 }
+
+%\newcommand(\figref)[1]{\textit{\[#1\]}}
